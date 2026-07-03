@@ -37,6 +37,10 @@ All sales data is simulated based on publicly available market
 information. Competitor pricing collected from live retail websites 
 across US, UK and UAE markets in April 2026.
 
+## Dashboard 
+- Kayali Commercial Analysis Dashboard.pbix (interactive — requires Power BI Desktop)
+- Kayali Commercial Analysis Dashboard-PDF.pdf (static — viewable in browser)
+
 ## Author
 Sowndarrya Srinivasan
 https://www.linkedin.com/in/sowndarrya-s-r/
