@@ -6,7 +6,7 @@ Independent commercial intelligence analysis of Kayali Fragrances 2025
 An independent commercial intelligence analysis of Kayali Fragrances 
 built as a portfolio project to demonstrate data analyst capabilities from simulated data.
 
-## What This Project Covers
+## What this Project covers
 - Multi-market pricing analysis across US, UK and UAE
 - Competitor benchmarking against 6 luxury fragrance brands
 - Promotional effectiveness and ROI analysis across 6 campaigns
