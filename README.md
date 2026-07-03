@@ -37,6 +37,6 @@ All sales data is simulated based on publicly available market
 information. Competitor pricing collected from live retail websites 
 across US, UK and UAE markets in April 2026.
 
-#Author
+## Author
 Sowndarrya Srinivasan
 https://www.linkedin.com/in/sowndarrya-s-r/
